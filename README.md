@@ -2,6 +2,8 @@
 
 <img src="RethyDoS.png">
 
+<img src="RethyDoS_Screenshot.png">
+
 https://rethy.xyz/Software/RethyDoS/
 </a>
 
